@@ -1,1 +1,4 @@
 https://github.com/himalayasingh/music-player-1
+
+
+Combine this with ytdl webserver and an editor that pushes items into the array and adds random image with the music.
